@@ -1,0 +1,3 @@
+platcode,op,repeats,epochs,batch,output_dims,output_model,tasks,height,width,unitsize,lines,coro-no-prefetch-ratio-mean,coro-no-prefetch-ratio-sd,coro-prefetch-ratio-mean,coro-prefetch-ratio-sd
+op,svm,100,2,10,1,0,6,200,938,2,0,1.1346975943112383,0.0321922357486807,1.104124373040243,0.03027796598548548
+op,svm,100,2,10,1,0,2,400,514,2,0,0.9947906613108185,0.003911881900209968,1.1629963260680756,0.005841031233564392

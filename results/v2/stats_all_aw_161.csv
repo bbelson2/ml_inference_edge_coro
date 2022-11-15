@@ -1,0 +1,3 @@
+platcode,op,repeats,epochs,batch,output_dims,output_model,tasks,height,width,unitsize,lines,coro-no-prefetch-ratio-mean,coro-no-prefetch-ratio-sd,coro-prefetch-ratio-mean,coro-prefetch-ratio-sd
+aw,leaf,100,10,100,1,0,4,800,140,2,0,0.9084240504497169,0.009801959396313375,1.3304240211689686,0.013135212742254801
+aw,leaf,100,10,100,1,0,4,800,168,2,0,0.9537333151258173,0.006859516968261093,1.3565759140785951,0.00962658281157499

@@ -1,0 +1,63 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# MS outputs
+Release
+Debug
+*.vcxproj.user
+.vs
+
+# CMake outputs
+build
+
+# VS Code artefacts
+.vscode
+
+# Results
+results/*.xlsx
+perf.data
+docs/~*.xlsm
+vector/perf.data.old
+convolution/err.txt
+results/chain_6_comp_1a.xlsm
+tmp
+ms_prefetch/btree_1/~$test_data.xlsx
+~$*.xlsx
+~$*.docx
+notebooks/.ipynb_checkpoints/*-checkpoint.ipynb
+v2/err*.txt
+output
+docs/v2_analysis.xlsx
+v2/stdev1.xlsx
+v2/tmp1.csv
+v2_scripts/hello_world.sh
